@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.Arcwise" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">#E9E2FF</item>
+        <item name="android:navigationBarColor">#F5EEFC</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:windowBackground">#E9E2FF</item>
+    </style>
+</resources>
